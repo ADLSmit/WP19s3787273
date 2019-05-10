@@ -36,7 +36,6 @@ function validateForm(){
 }
 
 function writeFormData(){
-
     if(validateForm()){
         console.log("valid form")
 
