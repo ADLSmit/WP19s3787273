@@ -2,7 +2,7 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="d21007e5-3854-4cdf-ac2b-c8148f9c76ea" name="Siegfried Webhosting" url="http://ssh.webhosting.rug.nl/~s3787273">
+      <webServer id="d21007e5-3854-4cdf-ac2b-c8148f9c76ea" name="Siegfried Webhosting" url="http://siegfried.webhosting.rug.nl/~s3787273/WP19">
         <fileTransfer host="ssh.webhosting.rug.nl" port="22" rootFolder="/home/www/s3787273/site" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
