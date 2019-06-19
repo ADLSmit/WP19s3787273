@@ -29,6 +29,7 @@ include __DIR__ . '/tpl/body-start.php';
             <button type="button" id="delete" class="btn btn-primary">Delete button</button>
         </form>
     </div>
+    <!--<script type="application/javascript" src="js/links.js"></script>-->
 <?php
 include __DIR__ . '/tpl/body-end.php';
 /* Footer */
